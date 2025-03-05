@@ -10,10 +10,11 @@ In this project, extensive data cleaning and preprocessing steps were taken to h
 To build an efficient model that predicts the likelihood of diabetic patients being readmitted to the hospital within 30 days.
 
 ## Steps done:
-  Data Collection
-  Data Preprocessing - Data Cleaning
-  Exploratory Data Analysis (EDA)
-  Feature Engineering
-  Feature Selection
-  Split Data into Training and Testing Sets
-  Feature Scaling
+  
+  - `Data Collection`
+  - `Data Preprocessing - Data Cleaning`
+  - `Exploratory Data Analysis (EDA)`
+  - `Feature Engineering`
+  - `Feature Selection`
+  - `Split Data into Training and Testing Sets`
+  - `Feature Scaling`
