@@ -18,3 +18,7 @@ To build an efficient model that predicts the likelihood of diabetic patients be
   - `Feature Selection`
   - `Split Data into Training and Testing Sets`
   - `Feature Scaling`
+  - `Build the ML Model`
+  - `Model Evaluation`
+  - `Hyperparameter Tuning and  pipeline`
+  - `Save the Model`
