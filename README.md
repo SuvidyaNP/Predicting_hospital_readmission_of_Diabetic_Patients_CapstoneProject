@@ -42,7 +42,7 @@ To build an efficient model that predicts the likelihood of diabetic patients be
 ## Results & Insights
 - Identified key factors influencing patient readmission
 - Provided actionable insights for reducing readmission rates
-- 
+  
 ## Installation & Usage
 1. Clone the repository:
    ```bash
