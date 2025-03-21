@@ -4,7 +4,7 @@
 - **Source:** UCI Machine Learning Repository
 - **Size:** 101766 rows
 - **Features:** 50 columns related to patient demographics, lab results, medications, and prior hospital visits.
-- **Target Variable:** readmission status (readmitted within 30 days, after 30 days, or not readmitted)
+- **Target Variable:** readmitted (within 30 days, after 30 days, or not readmitted)
 
   
 ## Introduction:
